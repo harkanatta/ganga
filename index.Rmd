@@ -1,6 +1,4 @@
-# Define app title and GitHub link
-title <- "My Shiny App"
-github <- "https://github.com/harkanatta/ganga"
+
 
 library(shiny)
 library(shinythemes)
